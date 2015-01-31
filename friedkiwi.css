@@ -25,3 +25,7 @@ a {
 body {
 	overflow: hidden;
 }
+
+.centerme {
+	text-align: center;
+}
