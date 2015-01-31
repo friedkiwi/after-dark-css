@@ -2,7 +2,9 @@
 
 Forked from [After Dark CSS](https://github.com/bryanbraun/after-dark-css) to create my personal home page.
 
-# After Dark in CSS
+The information from the original README has been kept below for reference; the data might not be accurate anymore.
+
+## After Dark in CSS
 
 ![Flying Toasters in CSS](img/flying-toasters-css.jpg)
 
