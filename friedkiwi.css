@@ -1,0 +1,23 @@
+.transparent{
+  background:rgba(255,255,255,0.5);
+}
+
+#mainContent {
+	position: absolute;
+	height: 600px;
+	width: 740px;
+	left: 50%;
+	top: 50%;
+	margin-left: -370px;
+	margin-top: -300px;
+	padding-left: 25px;
+	overflow: auto;
+}
+
+p {
+	font-size: 12px;
+}
+
+body {
+	overflow: hidden;
+}
