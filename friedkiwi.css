@@ -18,6 +18,10 @@ p {
 	font-size: 12px;
 }
 
+a {
+	color: black;
+}
+
 body {
 	overflow: hidden;
 }
