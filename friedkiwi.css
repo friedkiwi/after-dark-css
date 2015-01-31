@@ -26,6 +26,14 @@ body {
 	overflow: hidden;
 }
 
+.gray {
+	color: darkgray;
+}
+
+.smallprint {
+	font-size: 9px;
+}
+
 .centerme {
 	text-align: center;
 }
