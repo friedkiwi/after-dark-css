@@ -1,3 +1,7 @@
+# FriedKiwi Home Page
+
+Forked from [After Dark CSS](https://github.com/bryanbraun/after-dark-css) to create my personal home page.
+
 # After Dark in CSS
 
 ![Flying Toasters in CSS](img/flying-toasters-css.jpg)
